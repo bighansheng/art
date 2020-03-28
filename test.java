@@ -58,6 +58,7 @@ class Student{
 	
 	//现实学生信息的方法
 	public String info() {
+		System.out.println("hahahhah");
 		return "aa"
+        }
 }
-
